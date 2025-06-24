@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Bapan Modak, a junior MERN Stack Frontend Developer passionate about creating user-friendly and responsive web applications. </br> I specialize in designing and developing modern and efficient user interfaces using React.js, Tailwind CSS, and Firebase. </br> I love learning new technologies and working on challenging projects.  </br>My other skills include Node.js, Express.js, and MongoDB.
+Hi, I’m **Bapan Modak** — a passionate Frontend Web Developer specialized in the **MERN stack**.<br><br>- 💻 I love building beautiful and responsive web interfaces using **React.js**, **Tailwind CSS**, and **Framer Motion**.<br>- 🚀 Currently learning more about performance optimization and advanced React patterns.<br>- 🧠 I enjoy turning complex problems into simple, elegant, and user-friendly designs.<br>- 🔧 Comfortable with tools like **VS Code**, **Git**, **GitHub**, and **Firebase**.<br>- 🌱 Always excited to collaborate on interesting frontend projects or contribute to open-source.<br><br>📫 How to reach me: **your.email@example.com**
 
 
 ## 🌐 Socials:
