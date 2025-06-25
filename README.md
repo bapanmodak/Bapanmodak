@@ -1,4 +1,4 @@
-![GitHub Banner](banner.png)
+![GitHub Banner](banner-image-2.png)
 
 # 💫 About Me:
 Hi, I’m **Bapan Modak** — a passionate Frontend Web Developer specialized in the **MERN stack**.<br><br>- 💻 I love building beautiful and responsive web interfaces using **React.js**, **Tailwind CSS**, and **Framer Motion**.<br>- 🚀 Currently learning more about performance optimization and advanced React patterns.<br>- 🧠 I enjoy turning complex problems into simple, elegant, and user-friendly designs.<br>- 🔧 Comfortable with tools like **VS Code**, **Git**, **GitHub**, and **Firebase**.<br>- 🌱 Always excited to collaborate on interesting frontend projects or contribute to open-source.<br><br>📫 How to reach me: **Bapanm2317.com**
